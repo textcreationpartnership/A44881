@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue &amp; crie after the good old cause</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44881</idno><idno type="EEBO-CITATION">11849452</idno>
+  <idno type="VID">49892</idno>
+  <idno type="EEBO-PROQUEST">2240893740</idno>
+  
+            <idno type="STC">Wing H3291</idno>
+            <idno type="STC">ESTC R15550</idno>
+            <idno type="OCLC">11849452</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49892)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue &amp; crie after the good old cause</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Certain resolves and reasons about the dissolving of the late Parliament," p. 7 [i.e. 6]-8.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49892:1"/>
+            <head>A HUE &amp; CRIE After the Good Old Cause.</head>
+            <p>IT was about the time when the Sun with a more comfortable ray gave a fragrant ver<g ref="char:EOLhyphen"/>dure to the approaching Spring, when the people of <hi>England</hi> under the glimmering of a hoped settlement, began to grow secured, when on a suddain, <hi>Mars</hi> growing triumphant, thought the Chair of State fitter for himself to sit in, than for any bold or incroaching Vsurper. Alas poor <hi>Dick</hi> I how came this farthing on the score a thou never hadst the courage of a cornuted Cit: not break rather than bow; but who can re<g ref="char:EOLhyphen"/>sist
+<pb n="2" facs="tcp:49892:2"/>sate? I must needs say, 'twas an Herculean work to fight with <hi>Hydra;</hi> the many-headed multitude make a monstrous coyl: but make room here; Ha! what Monster is this? the <hi>Good Old Cause!</hi> now mer<g ref="char:EOLhyphen"/>cy on us; Chickens we may see, I'th' shell con<g ref="char:EOLhyphen"/>testing for the victory. I'th' name of <hi>Dis</hi> what art thou? whence comest thou? what mischief brought thee hither? the <hi>Good Old Cause!</hi> Prodigious Mon<g ref="char:EOLhyphen"/>ster! what Author of Sedition hath called thee? <hi>Monstrum horrendum, informe, ingens.</hi> And do you think under this new vizor, to set a new stamp up<g ref="char:EOLhyphen"/>on your foreacted villanies? 'Tis true there are some crown Lands yet unsold, and some wealth to be shared, and therefore you appear in person to take away all obstructions.</p>
+            <p>Well fare a good heart yet, where the skin is too little, piece it out with a Scab; and he that hath no legs, must halt upon crutches, Alas! see how it looks.
+<q>
+                  <l>Peace, here it speak a little, I protest</l>
+                  <l>The very very language of the beast;</l>
+                  <l>But we must bear with that it cannot chew,</l>
+                  <l>In time 'twill learn the languages anew.</l>
+               </q>
+            </p>
+            <p>But to be serious, about five months this furious Elf was? spawning, and just as it expected to come to perfection, loe it proved abortive, though not in its being, yet its hopes. Never did <hi>Achille<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with his <hi>Mirmidons</hi> give such a charge to <hi>Hector,</hi> as the fiery-spirited Sons of <hi>Mars</hi> did to the Republican Legislators: O 'twould make you laugh to see the Lord General <hi>Lenthall</hi> look as fierce as on of the Li<g ref="char:EOLhyphen"/>ons
+<pb n="3" facs="tcp:49892:2"/>in <hi>Smithfield</hi> pens, with a command in his mouth; but he quickly found obedience was better than sacrifice, and so presently returned like a fool as he is; thus disrobed, and denuded, of his too arro<g ref="char:EOLhyphen"/>gantly stolen plumes, he left the <hi>Good Old Cause</hi> in a lurch, which thereupon presently took its flight, and hath never been seen since. I therefore wil<g ref="char:EOLhyphen"/>ling, that the good people might not be deluded by this deceiver, according to the laudable custom of the Law of <hi>England</hi> in like cases, do raise the <hi>Hue and Crie,</hi> that it may be tracked by the sent, and taken as the Great Cheat, and Grand Pilferer of the Commonwealth.</p>
+            <div type="part">
+               <head>The Hue and Cry.</head>
+               <p>WHereas information hath been given, that a certain sturdy Vagabond, under a new name and notion, hath committed many Treasons, Felo<g ref="char:EOLhyphen"/>nies, faults, and misdemeanors, against the Pub<g ref="char:EOLhyphen"/>like Welfare of the Nation, whereof (as it is said) he is convict, for the preventing of which mischiefs for the future, and bringing to condign punish<g ref="char:EOLhyphen"/>ment the Actor of such horrid villanies, you are to take notice, that it is called the <hi>God Old Cause,</hi> mean<g ref="char:EOLhyphen"/>ly clad in a party-coloured Coat of <hi>Atheism, Ana<g ref="char:EOLhyphen"/>baptism, Quakerism,</hi> lately scoured in <hi>Bow</hi> River, and new trimmed with the sequestration of the <hi>Cheshire</hi> and <hi>Laneashire</hi> Gentry, lately grown poor, and like the Eagle with her beak renewing her age, yet for want of strength, forced to walk upon the crutches of a decayed free State; its hands being
+<pb n="4" facs="tcp:49892:3"/>like lime-twigs, holding fast all that comes into them, and whose feet, though lame, yet are swift to shed blood, beetle-brow'd, and squint-ey'd, looking on the people, as the Devil looked over <hi>Lin<g ref="char:EOLhyphen"/>coln,</hi> or like the Statue of <hi>Richard</hi> the 3d. in the old <hi>Exchange,</hi> looking awry upon his Nephew <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the 5th. hook-nosed, like <hi>Cyrus</hi> the Translator of Kingdoms and Empires, and with the Fisher<g ref="char:EOLhyphen"/>man of <hi>Naples Massinello,</hi> making all fish that comes to the Net: this you are by all wayes and means to pursue, take, apprehend, and with a good Dog you may sent him by the trail, for he smells strong of blood. And this you are in no wise to omit, as you will answer the contrary.</p>
+               <p>This no sooner came to the hands of some discar<g ref="char:EOLhyphen"/>ded Great ones, but they presently run on in a fresh pursute, and had like to have surprised the Varlet, even in the cheef place of its daly and usual meet<g ref="char:EOLhyphen"/>ing; but having some glimmering of the business (though there was neither Drum nor Trumpet to tell a Tale) it got the start, and immediately took wing.
+<q>
+                     <l>And art thou gone? and we agen</l>
+                     <l>Freed from Republican vain men?</l>
+                     <l>Why then wee'l hope once more to see,</l>
+                     <l>From one mans rule new Libertie:</l>
+                     <l>But if't be so that one cann't ride</l>
+                     <l>Formost, but others will divide</l>
+                     <l>And share with him, then will it be,</l>
+                     <l>No sign of Rule, but Anarchie,</l>
+                     <pb n="5" facs="tcp:49892:3"/>
+                     <l> Then like one late from <hi>Bedlam</hi> come,</l>
+                     <l>'Twill run about with Gun and Drum,</l>
+                     <l>Till swimming in a new-made Flood</l>
+                     <l>Of Orphans Tears, and Parents Blood,</l>
+                     <l>New dipt, it will with little pause,</l>
+                     <l>Start up again the <hi>Good old Cause.</hi>
+                     </l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:49892:4"/>
+               <list>
+                  <head>Certain Resolves and Reasons about the DISSOLVING of the late <hi>PARLIAMENT.</hi>
+                  </head>
+                  <item>FIrst it was resolved, that in regard the Mem<g ref="char:EOLhyphen"/>bers began to grow thin, that a thorough purge should be prepared for the whole House.</item>
+                  <item>2. Resolved, that if they should seem to refuse the same, they be enforced thereunto; &amp; to that pur<g ref="char:EOLhyphen"/>pose, that an Engine be prepared at the House▪ dore for them, as they formerly did for the late King up<g ref="char:EOLhyphen"/>on the Scaffold.</item>
+                  <item>3. Resolved, that the Physician most fitting to ad<g ref="char:EOLhyphen"/>minister this Potion, be the Lord <hi>Lambert,</hi> as best knowing how and with what strength to prepare it.</item>
+                  <item>4. Resolved, they be forthwith taken up: the Lord <hi>Lamberts</hi> Gardiners having informed him that it is a good time to remove.</item>
+                  <item>5. Resolved, that they never be admitted to come together again, lest they should share all the wealth of the Nation among themselves, and leave none for the Saints.</item>
+                  <pb n="6" facs="tcp:49892:4"/>
+                  <item> 6. Resolved, that the late Act, whereby to levy mony without consent of Parliament, is made Treason, was only a trick that they alone might cheat the people, whereas we intend to have as large a share as themselves in the same.</item>
+                  <item>7. Resolved, that the Lord <hi>Fleetwood</hi> be our Gene<g ref="char:EOLhyphen"/>ral, till we have more need of wit and valour, and that then we may lay him aside, and take another at our pleasure as occasion shall serve.</item>
+                  <item>8. Resolved, that the <hi>Good Old Cause</hi> be uncased, and that all the wealth and revenews belonging to the same, be confiscated to the use of the Saints, to arm them anew against all legal Authorities.</item>
+                  <item>9. Resolved, that in regard Old <hi>Nolls</hi> sword be<g ref="char:EOLhyphen"/>came <hi>Lex terrae,</hi> that ours being made of the same metal, may have the like stamp set upon them.</item>
+                  <item>10. Resolved, that the Speaker of the Parlia<g ref="char:EOLhyphen"/>ment, and the Master of the Rolls, be no longer Sy<g ref="char:EOLhyphen"/>nonymaes: and that <hi>William Lenthall</hi> Esq; be di<g ref="char:EOLhyphen"/>stinct from either of them.</item>
+                  <item>11. Resolved, that the thanks-giving dinner made by the City, was a sufficient recompence for the Members five months pains, although it decoy<g ref="char:EOLhyphen"/>ed them but into a greater security.</item>
+                  <item>12. Resolved, that the seven Regiments never meet but upon beat of drum, lest they steal upon us, as we made them creep over the Parliament.</item>
+                  <item>13. Resolved, that if the City dislike our Pro<g ref="char:EOLhyphen"/>ceedings, they be cudgell'd into better manners, and that the Aldermen in their Chains of gold be ser<g ref="char:EOLhyphen"/>ved up to us, like Capons wrapt up and drest in Sausidges.</item>
+                  <pb n="8" facs="tcp:49892:5"/>
+                  <item> 14. Resolved, that we k<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>p the power in our hands as long as we can, and if any seek to wrest it out, <hi>Phaeton</hi> like, rather fire the World, than lose the reigns; <hi>Si violandum enim est jus, regnandi causà violandum est;</hi> 'Twas old <hi>Nicks</hi> rule, and shall accor<g ref="char:EOLhyphen"/>dingly be punctually observed by us.</item>
+                  <item>15. Resolved, that we make the people poor and seditious, so shall all run to arms, and that oc<g ref="char:EOLhyphen"/>cupation may be as cheap set up as the Physician.</item>
+                  <item>16. Resolved, that Sir <hi>Harry Vane</hi> take c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re that these Orders be observed: because he can interest himself on every side, and like his weathercock<g ref="char:EOLhyphen"/>cosen turn with every wind.</item>
+                  <item>17. Resolved, that the <hi>Good Old Cause</hi> be from hence forth and for ever shut out of doors, as ha<g ref="char:EOLhyphen"/>ving usurped a name and authority that it never de<g ref="char:EOLhyphen"/>served, and that the <hi>Hue and Cry</hi> be fully pursued against it.</item>
+               </list>
+               <epigraph>
+                  <q>
+                     <l>Thus 'tis Resolv'd and possibly it may</l>
+                     <l>Last so to day:</l>
+                     <l>But if to morrow any one appear in full carrier,</l>
+                     <l>How quickly all is unresolved agen?</l>
+                     <l>Thus frantick men</l>
+                     <l>Thrust on us as they list base trivial stuff,</l>
+                     <l>
+                        <hi>They doe and undo<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, Day is long enough.</hi>
+                     </l>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
